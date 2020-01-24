@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: sample.selenium.junit.SampleTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 15.11 sec <<< FAILURE! - in sample.selenium.junit.SampleTest
+login(sample.selenium.junit.SampleTest)  Time elapsed: 7.002 sec  <<< FAILURE!
+java.lang.AssertionError
+	at sample.selenium.junit.SampleTest.login(SampleTest.java:40)
+
